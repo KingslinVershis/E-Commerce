@@ -37,6 +37,7 @@ body{
 
 section{
     padding: 2rem;
+    background-color: #fff;
 }
 
 .positio{
@@ -87,6 +88,16 @@ nav ul{
     font-size: 1.1rem;
     text-align: end;
 }
+
+nav ul .nav-link{
+    color: #ffa801;
+}
+
+nav ul .nav-link:hover{
+    color: red;
+
+}
+
 
 nav ul li a{
     color:#eee;
